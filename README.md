@@ -1,7 +1,7 @@
 # signup_with_provider
 
 A new Flutter project.
-
+git clone git@bitbucket.org:zsquaresolutions/rideoneapp.git
 ## Getting Started
 
 This project is a starting point for a Flutter application.
